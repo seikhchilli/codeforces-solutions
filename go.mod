@@ -1,3 +1,3 @@
 module gitihub.com/seikhchilli/codeforces-solutions
 
-go 1.24.0
+go 1.22.2
